@@ -1,4 +1,4 @@
-# E-commerce Back End
+# Social-Network-Api
 ## Demo
 
 ![Video Demo](./assets/screen-capture%20(4).webm)
